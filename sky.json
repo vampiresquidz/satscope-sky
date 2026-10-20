@@ -1,0 +1,210 @@
+{
+ "generated": "2026-10-20T20:25:35+00:00",
+ "source": "CelesTrak SATCAT (celestrak.org)",
+ "reentries": [
+  {
+   "date": "2026-10-20",
+   "name": "STARLINK-1305",
+   "notable": false,
+   "yearsUp": 6.6,
+   "norad": 45377,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-03-18",
+   "intldes": "2020-019T"
+  },
+  {
+   "date": "2026-10-19",
+   "name": "JILIN-1 GAOFEN 3H",
+   "notable": true,
+   "yearsUp": 6.1,
+   "norad": 46460,
+   "type": "PAY",
+   "owner": "PRC",
+   "launch": "2020-09-15",
+   "intldes": "2020-065G"
+  },
+  {
+   "date": "2026-10-19",
+   "name": "STARLINK-2610",
+   "notable": false,
+   "yearsUp": 5.5,
+   "norad": 48376,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2021-05-04",
+   "intldes": "2021-038Z"
+  },
+  {
+   "date": "2026-10-19",
+   "name": "JILIN-1 GAOFEN 03D43",
+   "notable": false,
+   "yearsUp": 4.2,
+   "norad": 53448,
+   "type": "PAY",
+   "owner": "PRC",
+   "launch": "2022-08-10",
+   "intldes": "2022-098E"
+  },
+  {
+   "date": "2026-10-19",
+   "name": "COSMOS 2572",
+   "notable": false,
+   "yearsUp": 2.9,
+   "norad": 58435,
+   "type": "PAY",
+   "owner": "CIS",
+   "launch": "2023-11-25",
+   "intldes": "2023-182A"
+  },
+  {
+   "date": "2026-10-18",
+   "name": "ZHUQUE-2E R/B",
+   "notable": true,
+   "yearsUp": 0.0,
+   "norad": 101070,
+   "type": "R/B",
+   "owner": "PRC",
+   "launch": "2026-10-14",
+   "intldes": "2026-234L"
+  },
+  {
+   "date": "2026-10-17",
+   "name": "FLOCK 4Q-29",
+   "notable": false,
+   "yearsUp": 2.9,
+   "norad": 58304,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2023-11-11",
+   "intldes": "2023-174BA"
+  },
+  {
+   "date": "2026-10-16",
+   "name": "STARLINK-5470",
+   "notable": false,
+   "yearsUp": 3.8,
+   "norad": 54776,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2022-12-17",
+   "intldes": "2022-175U"
+  },
+  {
+   "date": "2026-10-16",
+   "name": "FLOCK 4Q-35",
+   "notable": false,
+   "yearsUp": 2.9,
+   "norad": 58309,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2023-11-11",
+   "intldes": "2023-174BF"
+  },
+  {
+   "date": "2026-10-16",
+   "name": "BANDWAGON-2 OBJECT AE",
+   "notable": false,
+   "yearsUp": 1.8,
+   "norad": 62405,
+   "type": "PAY",
+   "owner": "TBD",
+   "launch": "2024-12-21",
+   "intldes": "2024-247AE"
+  },
+  {
+   "date": "2026-10-15",
+   "name": "PSLV R/B",
+   "notable": true,
+   "yearsUp": 4.7,
+   "norad": 51659,
+   "type": "R/B",
+   "owner": "IND",
+   "launch": "2022-02-14",
+   "intldes": "2022-013D"
+  },
+  {
+   "date": "2026-10-14",
+   "name": "OBJECT D",
+   "notable": false,
+   "yearsUp": 4.6,
+   "norad": 51827,
+   "type": "PAY",
+   "owner": "PRC",
+   "launch": "2022-02-27",
+   "intldes": "2022-019D"
+  },
+  {
+   "date": "2026-10-14",
+   "name": "OBJECT AS",
+   "notable": false,
+   "yearsUp": 3.3,
+   "norad": 57206,
+   "type": "PAY",
+   "owner": "CIS",
+   "launch": "2023-06-27",
+   "intldes": "2023-091AS"
+  },
+  {
+   "date": "2026-10-14",
+   "name": "STARLINK-30182",
+   "notable": false,
+   "yearsUp": 3.2,
+   "norad": 57412,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2023-07-20",
+   "intldes": "2023-102J"
+  },
+  {
+   "date": "2026-10-13",
+   "name": "ELECTRON KICK STAGE R/B",
+   "notable": true,
+   "yearsUp": 1.4,
+   "norad": 64230,
+   "type": "R/B",
+   "owner": "US",
+   "launch": "2025-06-02",
+   "intldes": "2025-118A"
+  },
+  {
+   "date": "2026-10-13",
+   "name": "STARLINK-1810",
+   "notable": false,
+   "yearsUp": 6.0,
+   "norad": 46709,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-10-18",
+   "intldes": "2020-073AR"
+  },
+  {
+   "date": "2026-10-13",
+   "name": "SITRO-AIS 42",
+   "notable": false,
+   "yearsUp": 1.9,
+   "norad": 61756,
+   "type": "PAY",
+   "owner": "CIS",
+   "launch": "2024-11-04",
+   "intldes": "2024-199X"
+  }
+ ],
+ "debris": {
+  "newThisWeek": 18,
+  "total": 35939,
+  "up": 12547,
+  "history": [
+   {
+    "date": "2026-10-09",
+    "total": 35911,
+    "up": 12532
+   },
+   {
+    "date": "2026-10-20",
+    "total": 35939,
+    "up": 12547
+   }
+  ]
+ }
+}
