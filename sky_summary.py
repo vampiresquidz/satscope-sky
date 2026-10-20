@@ -54,7 +54,7 @@ def main():
         years_up = (d - launched).days / 365.25 if launched else 0
         # Notable: rocket stages, anything up 5+ years, or a famous name. Never Starlink's routine disposals.
         notable = not name.upper().startswith("STARLINK") and (
-            kind == "R/B" or years_up >= 5 or any(re.search(rf"{f}", name.upper()) for f in FAMOUS))
+            kind == "R/B" or years_up >= 5 or any(re.search(rf"\b{re.escape(f)}\b", name.upper()) for f in FAMOUS))
         recent.append({
             "date": d.isoformat(),
             "name": name,
