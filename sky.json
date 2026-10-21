@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T20:27:40+00:00",
+ "generated": "2026-10-21T11:48:50+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
   {
@@ -155,43 +155,10 @@
    "owner": "US",
    "launch": "2023-07-20",
    "intldes": "2023-102J"
-  },
-  {
-   "date": "2026-10-13",
-   "name": "ELECTRON KICK STAGE R/B",
-   "notable": true,
-   "yearsUp": 1.4,
-   "norad": 64230,
-   "type": "R/B",
-   "owner": "US",
-   "launch": "2025-06-02",
-   "intldes": "2025-118A"
-  },
-  {
-   "date": "2026-10-13",
-   "name": "STARLINK-1810",
-   "notable": false,
-   "yearsUp": 6.0,
-   "norad": 46709,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-10-18",
-   "intldes": "2020-073AR"
-  },
-  {
-   "date": "2026-10-13",
-   "name": "SITRO-AIS 42",
-   "notable": false,
-   "yearsUp": 1.9,
-   "norad": 61756,
-   "type": "PAY",
-   "owner": "CIS",
-   "launch": "2024-11-04",
-   "intldes": "2024-199X"
   }
  ],
  "debris": {
-  "newThisWeek": 18,
+  "newThisWeek": 16,
   "total": 35939,
   "up": 12547,
   "history": [
@@ -202,6 +169,11 @@
    },
    {
     "date": "2026-10-20",
+    "total": 35939,
+    "up": 12547
+   },
+   {
+    "date": "2026-10-21",
     "total": 35939,
     "up": 12547
    }
