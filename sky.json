@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T11:48:50+00:00",
+ "generated": "2026-10-22T11:52:32+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
   {
@@ -122,43 +122,10 @@
    "owner": "IND",
    "launch": "2022-02-14",
    "intldes": "2022-013D"
-  },
-  {
-   "date": "2026-10-14",
-   "name": "OBJECT D",
-   "notable": false,
-   "yearsUp": 4.6,
-   "norad": 51827,
-   "type": "PAY",
-   "owner": "PRC",
-   "launch": "2022-02-27",
-   "intldes": "2022-019D"
-  },
-  {
-   "date": "2026-10-14",
-   "name": "OBJECT AS",
-   "notable": false,
-   "yearsUp": 3.3,
-   "norad": 57206,
-   "type": "PAY",
-   "owner": "CIS",
-   "launch": "2023-06-27",
-   "intldes": "2023-091AS"
-  },
-  {
-   "date": "2026-10-14",
-   "name": "STARLINK-30182",
-   "notable": false,
-   "yearsUp": 3.2,
-   "norad": 57412,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2023-07-20",
-   "intldes": "2023-102J"
   }
  ],
  "debris": {
-  "newThisWeek": 16,
+  "newThisWeek": 15,
   "total": 35939,
   "up": 12547,
   "history": [
@@ -174,6 +141,11 @@
    },
    {
     "date": "2026-10-21",
+    "total": 35939,
+    "up": 12547
+   },
+   {
+    "date": "2026-10-22",
     "total": 35939,
     "up": 12547
    }
