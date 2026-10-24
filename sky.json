@@ -1,7 +1,51 @@
 {
- "generated": "2026-10-23T11:39:08+00:00",
+ "generated": "2026-10-24T11:00:14+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-10-23",
+   "name": "ELECTRON KICK STAGE R/B",
+   "notable": true,
+   "yearsUp": 0.1,
+   "norad": 100684,
+   "type": "R/B",
+   "owner": "US",
+   "launch": "2026-09-11",
+   "intldes": "2026-207C"
+  },
+  {
+   "date": "2026-10-23",
+   "name": "STARLINK-1641",
+   "notable": false,
+   "yearsUp": 6.2,
+   "norad": 46174,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-08-18",
+   "intldes": "2020-057BK"
+  },
+  {
+   "date": "2026-10-23",
+   "name": "STARLINK-4454",
+   "notable": false,
+   "yearsUp": 4.2,
+   "norad": 53499,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2022-08-12",
+   "intldes": "2022-099AL"
+  },
+  {
+   "date": "2026-10-21",
+   "name": "UITMSAT-2",
+   "notable": true,
+   "yearsUp": 27.9,
+   "norad": 67686,
+   "type": "PAY",
+   "owner": "MALA",
+   "launch": "1998-11-20",
+   "intldes": "1998-067YD"
+  },
   {
    "date": "2026-10-21",
    "name": "STARLINK-1297",
@@ -133,43 +177,10 @@
    "owner": "US",
    "launch": "2023-11-11",
    "intldes": "2023-174BA"
-  },
-  {
-   "date": "2026-10-16",
-   "name": "STARLINK-5470",
-   "notable": false,
-   "yearsUp": 3.8,
-   "norad": 54776,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2022-12-17",
-   "intldes": "2022-175U"
-  },
-  {
-   "date": "2026-10-16",
-   "name": "FLOCK 4Q-35",
-   "notable": false,
-   "yearsUp": 2.9,
-   "norad": 58309,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2023-11-11",
-   "intldes": "2023-174BF"
-  },
-  {
-   "date": "2026-10-16",
-   "name": "BANDWAGON-2 OBJECT AE",
-   "notable": false,
-   "yearsUp": 1.8,
-   "norad": 62405,
-   "type": "PAY",
-   "owner": "TBD",
-   "launch": "2024-12-21",
-   "intldes": "2024-247AE"
   }
  ],
  "debris": {
-  "newThisWeek": 14,
+  "newThisWeek": 13,
   "total": 35939,
   "up": 12546,
   "history": [
@@ -195,6 +206,11 @@
    },
    {
     "date": "2026-10-23",
+    "total": 35939,
+    "up": 12546
+   },
+   {
+    "date": "2026-10-24",
     "total": 35939,
     "up": 12546
    }
