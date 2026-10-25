@@ -1,7 +1,18 @@
 {
- "generated": "2026-10-24T11:00:14+00:00",
+ "generated": "2026-10-25T11:28:31+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-10-24",
+   "name": "STARLINK-1704",
+   "notable": false,
+   "yearsUp": 5.7,
+   "norad": 47625,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2021-02-16",
+   "intldes": "2021-012F"
+  },
   {
    "date": "2026-10-23",
    "name": "ELECTRON KICK STAGE R/B",
@@ -23,6 +34,17 @@
    "owner": "US",
    "launch": "2020-08-18",
    "intldes": "2020-057BK"
+  },
+  {
+   "date": "2026-10-23",
+   "name": "YAOGAN-35 02B",
+   "notable": false,
+   "yearsUp": 4.3,
+   "norad": 52908,
+   "type": "PAY",
+   "owner": "PRC",
+   "launch": "2022-06-23",
+   "intldes": "2022-068B"
   },
   {
    "date": "2026-10-23",
@@ -166,23 +188,12 @@
    "owner": "PRC",
    "launch": "2026-10-14",
    "intldes": "2026-234L"
-  },
-  {
-   "date": "2026-10-17",
-   "name": "FLOCK 4Q-29",
-   "notable": false,
-   "yearsUp": 2.9,
-   "norad": 58304,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2023-11-11",
-   "intldes": "2023-174BA"
   }
  ],
  "debris": {
-  "newThisWeek": 13,
+  "newThisWeek": 12,
   "total": 35939,
-  "up": 12546,
+  "up": 12545,
   "history": [
    {
     "date": "2026-10-09",
@@ -213,6 +224,11 @@
     "date": "2026-10-24",
     "total": 35939,
     "up": 12546
+   },
+   {
+    "date": "2026-10-25",
+    "total": 35939,
+    "up": 12545
    }
   ]
  }
