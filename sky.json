@@ -1,7 +1,62 @@
 {
- "generated": "2026-10-25T11:28:31+00:00",
+ "generated": "2026-10-27T12:11:40+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-10-26",
+   "name": "STARLINK-2236",
+   "notable": false,
+   "yearsUp": 5.4,
+   "norad": 48582,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2021-05-15",
+   "intldes": "2021-041AF"
+  },
+  {
+   "date": "2026-10-25",
+   "name": "STARLINK-1525",
+   "notable": false,
+   "yearsUp": 6.2,
+   "norad": 46066,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-08-07",
+   "intldes": "2020-055AR"
+  },
+  {
+   "date": "2026-10-25",
+   "name": "STARLINK-2187",
+   "notable": false,
+   "yearsUp": 5.4,
+   "norad": 48562,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2021-05-15",
+   "intldes": "2021-041K"
+  },
+  {
+   "date": "2026-10-25",
+   "name": "STARLINK-36255",
+   "notable": false,
+   "yearsUp": 0.9,
+   "norad": 67102,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2025-12-15",
+   "intldes": "2025-299A"
+  },
+  {
+   "date": "2026-10-24",
+   "name": "STARLINK-1454",
+   "notable": false,
+   "yearsUp": 6.4,
+   "norad": 45671,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-06-04",
+   "intldes": "2020-035Q"
+  },
   {
    "date": "2026-10-24",
    "name": "STARLINK-1704",
@@ -12,6 +67,17 @@
    "owner": "US",
    "launch": "2021-02-16",
    "intldes": "2021-012F"
+  },
+  {
+   "date": "2026-10-24",
+   "name": "STARLINK-30224",
+   "notable": false,
+   "yearsUp": 3.3,
+   "norad": 57416,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2023-07-20",
+   "intldes": "2023-102N"
   },
   {
    "date": "2026-10-23",
@@ -56,6 +122,17 @@
    "owner": "US",
    "launch": "2022-08-12",
    "intldes": "2022-099AL"
+  },
+  {
+   "date": "2026-10-23",
+   "name": "STARLINK-30236",
+   "notable": false,
+   "yearsUp": 3.3,
+   "norad": 57300,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2023-07-10",
+   "intldes": "2023-096L"
   },
   {
    "date": "2026-10-21",
@@ -133,67 +210,12 @@
    "owner": "US",
    "launch": "2023-11-22",
    "intldes": "2023-180L"
-  },
-  {
-   "date": "2026-10-19",
-   "name": "JILIN-1 GAOFEN 3H",
-   "notable": true,
-   "yearsUp": 6.1,
-   "norad": 46460,
-   "type": "PAY",
-   "owner": "PRC",
-   "launch": "2020-09-15",
-   "intldes": "2020-065G"
-  },
-  {
-   "date": "2026-10-19",
-   "name": "STARLINK-2610",
-   "notable": false,
-   "yearsUp": 5.5,
-   "norad": 48376,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2021-05-04",
-   "intldes": "2021-038Z"
-  },
-  {
-   "date": "2026-10-19",
-   "name": "JILIN-1 GAOFEN 03D43",
-   "notable": false,
-   "yearsUp": 4.2,
-   "norad": 53448,
-   "type": "PAY",
-   "owner": "PRC",
-   "launch": "2022-08-10",
-   "intldes": "2022-098E"
-  },
-  {
-   "date": "2026-10-19",
-   "name": "COSMOS 2572",
-   "notable": false,
-   "yearsUp": 2.9,
-   "norad": 58435,
-   "type": "PAY",
-   "owner": "CIS",
-   "launch": "2023-11-25",
-   "intldes": "2023-182A"
-  },
-  {
-   "date": "2026-10-18",
-   "name": "ZHUQUE-2E R/B",
-   "notable": true,
-   "yearsUp": 0.0,
-   "norad": 101070,
-   "type": "R/B",
-   "owner": "PRC",
-   "launch": "2026-10-14",
-   "intldes": "2026-234L"
   }
  ],
  "debris": {
-  "newThisWeek": 12,
-  "total": 35939,
-  "up": 12545,
+  "newThisWeek": 4,
+  "total": 35943,
+  "up": 12548,
   "history": [
    {
     "date": "2026-10-09",
@@ -229,6 +251,11 @@
     "date": "2026-10-25",
     "total": 35939,
     "up": 12545
+   },
+   {
+    "date": "2026-10-27",
+    "total": 35943,
+    "up": 12548
    }
   ]
  }
