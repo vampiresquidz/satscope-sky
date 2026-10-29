@@ -1,7 +1,40 @@
 {
- "generated": "2026-10-28T12:54:24+00:00",
+ "generated": "2026-10-29T13:00:29+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-10-27",
+   "name": "AUREOLE 2",
+   "notable": true,
+   "yearsUp": 52.8,
+   "norad": 7003,
+   "type": "PAY",
+   "owner": "FR",
+   "launch": "1973-12-26",
+   "intldes": "1973-107A"
+  },
+  {
+   "date": "2026-10-27",
+   "name": "STARLINK-1036",
+   "notable": false,
+   "yearsUp": 7.0,
+   "norad": 44741,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2019-11-11",
+   "intldes": "2019-074AE"
+  },
+  {
+   "date": "2026-10-27",
+   "name": "IPERDRONE.0",
+   "notable": false,
+   "yearsUp": 2.2,
+   "norad": 60520,
+   "type": "PAY",
+   "owner": "IT",
+   "launch": "2024-08-16",
+   "intldes": "2024-149BE"
+  },
   {
    "date": "2026-10-26",
    "name": "STARLINK-2236",
@@ -80,6 +113,17 @@
    "intldes": "2023-102N"
   },
   {
+   "date": "2026-10-24",
+   "name": "RASSVET-3 23",
+   "notable": false,
+   "yearsUp": 0.3,
+   "norad": 100089,
+   "type": "PAY",
+   "owner": "CIS",
+   "launch": "2026-07-19",
+   "intldes": "2026-165G"
+  },
+  {
    "date": "2026-10-23",
    "name": "ELECTRON KICK STAGE R/B",
    "notable": true,
@@ -144,17 +188,6 @@
    "owner": "MALA",
    "launch": "1998-11-20",
    "intldes": "1998-067YD"
-  },
-  {
-   "date": "2026-10-21",
-   "name": "STARLINK-1297",
-   "notable": false,
-   "yearsUp": 6.6,
-   "norad": 45395,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-03-18",
-   "intldes": "2020-019AM"
   }
  ],
  "debris": {
@@ -204,6 +237,11 @@
    },
    {
     "date": "2026-10-28",
+    "total": 35943,
+    "up": 12547
+   },
+   {
+    "date": "2026-10-29",
     "total": 35943,
     "up": 12547
    }
