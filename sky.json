@@ -1,7 +1,40 @@
 {
- "generated": "2026-10-29T13:00:29+00:00",
+ "generated": "2026-10-30T12:56:06+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-10-29",
+   "name": "STARLINK-1309",
+   "notable": false,
+   "yearsUp": 6.6,
+   "norad": 45414,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-03-18",
+   "intldes": "2020-019BG"
+  },
+  {
+   "date": "2026-10-29",
+   "name": "STARLINK-30233",
+   "notable": false,
+   "yearsUp": 3.3,
+   "norad": 57302,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2023-07-10",
+   "intldes": "2023-096N"
+  },
+  {
+   "date": "2026-10-28",
+   "name": "FLOCK 4G-20",
+   "notable": false,
+   "yearsUp": 1.8,
+   "norad": 62636,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2025-01-14",
+   "intldes": "2025-009AD"
+  },
   {
    "date": "2026-10-27",
    "name": "AUREOLE 2",
@@ -113,17 +146,6 @@
    "intldes": "2023-102N"
   },
   {
-   "date": "2026-10-24",
-   "name": "RASSVET-3 23",
-   "notable": false,
-   "yearsUp": 0.3,
-   "norad": 100089,
-   "type": "PAY",
-   "owner": "CIS",
-   "launch": "2026-07-19",
-   "intldes": "2026-165G"
-  },
-  {
    "date": "2026-10-23",
    "name": "ELECTRON KICK STAGE R/B",
    "notable": true,
@@ -177,17 +199,6 @@
    "owner": "US",
    "launch": "2023-07-10",
    "intldes": "2023-096L"
-  },
-  {
-   "date": "2026-10-22",
-   "name": "UITMSAT-2",
-   "notable": true,
-   "yearsUp": 27.9,
-   "norad": 67686,
-   "type": "PAY",
-   "owner": "MALA",
-   "launch": "1998-11-20",
-   "intldes": "1998-067YD"
   }
  ],
  "debris": {
@@ -242,6 +253,11 @@
    },
    {
     "date": "2026-10-29",
+    "total": 35943,
+    "up": 12547
+   },
+   {
+    "date": "2026-10-30",
     "total": 35943,
     "up": 12547
    }
