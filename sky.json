@@ -1,7 +1,18 @@
 {
- "generated": "2026-10-30T12:56:06+00:00",
+ "generated": "2026-10-31T12:29:01+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-10-30",
+   "name": "IOD-1",
+   "notable": false,
+   "yearsUp": 1.6,
+   "norad": 63212,
+   "type": "PAY",
+   "owner": "SPN",
+   "launch": "2025-03-15",
+   "intldes": "2025-052C"
+  },
   {
    "date": "2026-10-29",
    "name": "STARLINK-1309",
@@ -23,6 +34,17 @@
    "owner": "US",
    "launch": "2023-07-10",
    "intldes": "2023-096N"
+  },
+  {
+   "date": "2026-10-29",
+   "name": "RASSVET-3 17",
+   "notable": false,
+   "yearsUp": 0.3,
+   "norad": 100083,
+   "type": "PAY",
+   "owner": "CIS",
+   "launch": "2026-07-19",
+   "intldes": "2026-165A"
   },
   {
    "date": "2026-10-28",
@@ -144,67 +166,12 @@
    "owner": "US",
    "launch": "2023-07-20",
    "intldes": "2023-102N"
-  },
-  {
-   "date": "2026-10-23",
-   "name": "ELECTRON KICK STAGE R/B",
-   "notable": true,
-   "yearsUp": 0.1,
-   "norad": 100684,
-   "type": "R/B",
-   "owner": "US",
-   "launch": "2026-09-11",
-   "intldes": "2026-207C"
-  },
-  {
-   "date": "2026-10-23",
-   "name": "STARLINK-1641",
-   "notable": false,
-   "yearsUp": 6.2,
-   "norad": 46174,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-08-18",
-   "intldes": "2020-057BK"
-  },
-  {
-   "date": "2026-10-23",
-   "name": "YAOGAN-35 02B",
-   "notable": false,
-   "yearsUp": 4.3,
-   "norad": 52908,
-   "type": "PAY",
-   "owner": "PRC",
-   "launch": "2022-06-23",
-   "intldes": "2022-068B"
-  },
-  {
-   "date": "2026-10-23",
-   "name": "STARLINK-4454",
-   "notable": false,
-   "yearsUp": 4.2,
-   "norad": 53499,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2022-08-12",
-   "intldes": "2022-099AL"
-  },
-  {
-   "date": "2026-10-23",
-   "name": "STARLINK-30236",
-   "notable": false,
-   "yearsUp": 3.3,
-   "norad": 57300,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2023-07-10",
-   "intldes": "2023-096L"
   }
  ],
  "debris": {
   "newThisWeek": 4,
   "total": 35943,
-  "up": 12547,
+  "up": 12546,
   "history": [
    {
     "date": "2026-10-09",
@@ -260,6 +227,11 @@
     "date": "2026-10-30",
     "total": 35943,
     "up": 12547
+   },
+   {
+    "date": "2026-10-31",
+    "total": 35943,
+    "up": 12546
    }
   ]
  }
