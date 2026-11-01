@@ -1,7 +1,29 @@
 {
- "generated": "2026-10-31T12:29:01+00:00",
+ "generated": "2026-11-01T13:24:06+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-01",
+   "name": "STARLINK-1283",
+   "notable": false,
+   "yearsUp": 6.6,
+   "norad": 45389,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-03-18",
+   "intldes": "2020-019AF"
+  },
+  {
+   "date": "2026-10-30",
+   "name": "ELECTRON R/B",
+   "notable": true,
+   "yearsUp": 0.0,
+   "norad": 101147,
+   "type": "R/B",
+   "owner": "US",
+   "launch": "2026-10-23",
+   "intldes": "2026-239D"
+  },
   {
    "date": "2026-10-30",
    "name": "IOD-1",
@@ -26,17 +48,6 @@
   },
   {
    "date": "2026-10-29",
-   "name": "STARLINK-30233",
-   "notable": false,
-   "yearsUp": 3.3,
-   "norad": 57302,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2023-07-10",
-   "intldes": "2023-096N"
-  },
-  {
-   "date": "2026-10-29",
    "name": "RASSVET-3 17",
    "notable": false,
    "yearsUp": 0.3,
@@ -45,6 +56,17 @@
    "owner": "CIS",
    "launch": "2026-07-19",
    "intldes": "2026-165A"
+  },
+  {
+   "date": "2026-10-28",
+   "name": "STARLINK-30233",
+   "notable": false,
+   "yearsUp": 3.3,
+   "norad": 57302,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2023-07-10",
+   "intldes": "2023-096N"
   },
   {
    "date": "2026-10-28",
@@ -133,45 +155,12 @@
    "owner": "US",
    "launch": "2025-12-15",
    "intldes": "2025-299A"
-  },
-  {
-   "date": "2026-10-24",
-   "name": "STARLINK-1454",
-   "notable": false,
-   "yearsUp": 6.4,
-   "norad": 45671,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-06-04",
-   "intldes": "2020-035Q"
-  },
-  {
-   "date": "2026-10-24",
-   "name": "STARLINK-1704",
-   "notable": false,
-   "yearsUp": 5.7,
-   "norad": 47625,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2021-02-16",
-   "intldes": "2021-012F"
-  },
-  {
-   "date": "2026-10-24",
-   "name": "STARLINK-30224",
-   "notable": false,
-   "yearsUp": 3.3,
-   "norad": 57416,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2023-07-20",
-   "intldes": "2023-102N"
   }
  ],
  "debris": {
   "newThisWeek": 4,
   "total": 35943,
-  "up": 12546,
+  "up": 12545,
   "history": [
    {
     "date": "2026-10-09",
@@ -232,6 +221,11 @@
     "date": "2026-10-31",
     "total": 35943,
     "up": 12546
+   },
+   {
+    "date": "2026-11-01",
+    "total": 35943,
+    "up": 12545
    }
   ]
  }
