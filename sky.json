@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T13:24:06+00:00",
+ "generated": "2026-11-02T15:51:18+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
   {
@@ -122,45 +122,12 @@
    "owner": "US",
    "launch": "2021-05-15",
    "intldes": "2021-041AF"
-  },
-  {
-   "date": "2026-10-25",
-   "name": "STARLINK-1525",
-   "notable": false,
-   "yearsUp": 6.2,
-   "norad": 46066,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-08-07",
-   "intldes": "2020-055AR"
-  },
-  {
-   "date": "2026-10-25",
-   "name": "STARLINK-2187",
-   "notable": false,
-   "yearsUp": 5.4,
-   "norad": 48562,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2021-05-15",
-   "intldes": "2021-041K"
-  },
-  {
-   "date": "2026-10-25",
-   "name": "STARLINK-36255",
-   "notable": false,
-   "yearsUp": 0.9,
-   "norad": 67102,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2025-12-15",
-   "intldes": "2025-299A"
   }
  ],
  "debris": {
   "newThisWeek": 4,
   "total": 35943,
-  "up": 12545,
+  "up": 12543,
   "history": [
    {
     "date": "2026-10-09",
@@ -226,6 +193,11 @@
     "date": "2026-11-01",
     "total": 35943,
     "up": 12545
+   },
+   {
+    "date": "2026-11-02",
+    "total": 35943,
+    "up": 12543
    }
   ]
  }
