@@ -1,7 +1,51 @@
 {
- "generated": "2026-11-02T15:51:18+00:00",
+ "generated": "2026-11-03T14:13:35+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-03",
+   "name": "STARLINK-30239",
+   "notable": false,
+   "yearsUp": 3.3,
+   "norad": 57291,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2023-07-10",
+   "intldes": "2023-096B"
+  },
+  {
+   "date": "2026-11-02",
+   "name": "NAPA-1",
+   "notable": true,
+   "yearsUp": 6.2,
+   "norad": 46320,
+   "type": "PAY",
+   "owner": "THAI",
+   "launch": "2020-09-03",
+   "intldes": "2020-061BA"
+  },
+  {
+   "date": "2026-11-02",
+   "name": "STARLINK-3306",
+   "notable": false,
+   "yearsUp": 4.9,
+   "norad": 50163,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2021-12-18",
+   "intldes": "2021-125H"
+  },
+  {
+   "date": "2026-11-02",
+   "name": "HYPSO-1",
+   "notable": false,
+   "yearsUp": 4.8,
+   "norad": 51053,
+   "type": "PAY",
+   "owner": "NOR",
+   "launch": "2022-01-13",
+   "intldes": "2022-002BX"
+  },
   {
    "date": "2026-11-01",
    "name": "STARLINK-1283",
@@ -111,23 +155,12 @@
    "owner": "IT",
    "launch": "2024-08-16",
    "intldes": "2024-149BE"
-  },
-  {
-   "date": "2026-10-26",
-   "name": "STARLINK-2236",
-   "notable": false,
-   "yearsUp": 5.4,
-   "norad": 48582,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2021-05-15",
-   "intldes": "2021-041AF"
   }
  ],
  "debris": {
-  "newThisWeek": 4,
+  "newThisWeek": 0,
   "total": 35943,
-  "up": 12543,
+  "up": 12541,
   "history": [
    {
     "date": "2026-10-09",
@@ -198,6 +231,11 @@
     "date": "2026-11-02",
     "total": 35943,
     "up": 12543
+   },
+   {
+    "date": "2026-11-03",
+    "total": 35943,
+    "up": 12541
    }
   ]
  }
