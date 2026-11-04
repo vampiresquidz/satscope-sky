@@ -1,7 +1,18 @@
 {
- "generated": "2026-11-03T14:13:35+00:00",
+ "generated": "2026-11-04T14:31:53+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-03",
+   "name": "STARLINK-1327",
+   "notable": false,
+   "yearsUp": 6.5,
+   "norad": 45555,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-04-22",
+   "intldes": "2020-025AA"
+  },
   {
    "date": "2026-11-03",
    "name": "STARLINK-30239",
@@ -122,45 +133,12 @@
    "owner": "US",
    "launch": "2025-01-14",
    "intldes": "2025-009AD"
-  },
-  {
-   "date": "2026-10-27",
-   "name": "AUREOLE 2",
-   "notable": true,
-   "yearsUp": 52.8,
-   "norad": 7003,
-   "type": "PAY",
-   "owner": "FR",
-   "launch": "1973-12-26",
-   "intldes": "1973-107A"
-  },
-  {
-   "date": "2026-10-27",
-   "name": "STARLINK-1036",
-   "notable": false,
-   "yearsUp": 7.0,
-   "norad": 44741,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2019-11-11",
-   "intldes": "2019-074AE"
-  },
-  {
-   "date": "2026-10-27",
-   "name": "IPERDRONE.0",
-   "notable": false,
-   "yearsUp": 2.2,
-   "norad": 60520,
-   "type": "PAY",
-   "owner": "IT",
-   "launch": "2024-08-16",
-   "intldes": "2024-149BE"
   }
  ],
  "debris": {
-  "newThisWeek": 0,
-  "total": 35943,
-  "up": 12541,
+  "newThisWeek": 4,
+  "total": 35947,
+  "up": 12544,
   "history": [
    {
     "date": "2026-10-09",
@@ -236,6 +214,11 @@
     "date": "2026-11-03",
     "total": 35943,
     "up": 12541
+   },
+   {
+    "date": "2026-11-04",
+    "total": 35947,
+    "up": 12544
    }
   ]
  }
