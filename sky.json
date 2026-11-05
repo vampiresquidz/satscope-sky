@@ -1,7 +1,18 @@
 {
- "generated": "2026-11-04T14:31:53+00:00",
+ "generated": "2026-11-05T14:39:16+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-03",
+   "name": "LEOPARD",
+   "notable": true,
+   "yearsUp": 28.0,
+   "norad": 67687,
+   "type": "PAY",
+   "owner": "JPN",
+   "launch": "1998-11-20",
+   "intldes": "1998-067YE"
+  },
   {
    "date": "2026-11-03",
    "name": "STARLINK-1327",
@@ -12,6 +23,17 @@
    "owner": "US",
    "launch": "2020-04-22",
    "intldes": "2020-025AA"
+  },
+  {
+   "date": "2026-11-03",
+   "name": "STARLINK-1478",
+   "notable": false,
+   "yearsUp": 6.4,
+   "norad": 45755,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-06-13",
+   "intldes": "2020-038AB"
   },
   {
    "date": "2026-11-03",
@@ -111,34 +133,12 @@
    "owner": "CIS",
    "launch": "2026-07-19",
    "intldes": "2026-165A"
-  },
-  {
-   "date": "2026-10-28",
-   "name": "STARLINK-30233",
-   "notable": false,
-   "yearsUp": 3.3,
-   "norad": 57302,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2023-07-10",
-   "intldes": "2023-096N"
-  },
-  {
-   "date": "2026-10-28",
-   "name": "FLOCK 4G-20",
-   "notable": false,
-   "yearsUp": 1.8,
-   "norad": 62636,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2025-01-14",
-   "intldes": "2025-009AD"
   }
  ],
  "debris": {
   "newThisWeek": 4,
   "total": 35947,
-  "up": 12544,
+  "up": 12543,
   "history": [
    {
     "date": "2026-10-09",
@@ -219,6 +219,11 @@
     "date": "2026-11-04",
     "total": 35947,
     "up": 12544
+   },
+   {
+    "date": "2026-11-05",
+    "total": 35947,
+    "up": 12543
    }
   ]
  }
