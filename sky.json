@@ -1,7 +1,51 @@
 {
- "generated": "2026-11-05T14:39:16+00:00",
+ "generated": "2026-11-06T14:16:10+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-05",
+   "name": "STARLINK-2298",
+   "notable": false,
+   "yearsUp": 5.6,
+   "norad": 48022,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2021-03-24",
+   "intldes": "2021-024AX"
+  },
+  {
+   "date": "2026-11-04",
+   "name": "SWIFT",
+   "notable": true,
+   "yearsUp": 22.0,
+   "norad": 28485,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2004-11-20",
+   "intldes": "2004-047A"
+  },
+  {
+   "date": "2026-11-04",
+   "name": "OBJECT C",
+   "notable": false,
+   "yearsUp": 4.2,
+   "norad": 53446,
+   "type": "PAY",
+   "owner": "PRC",
+   "launch": "2022-08-10",
+   "intldes": "2022-098C"
+  },
+  {
+   "date": "2026-11-04",
+   "name": "STARLINK-32664",
+   "notable": false,
+   "yearsUp": 1.9,
+   "norad": 62204,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2024-12-04",
+   "intldes": "2024-229N"
+  },
   {
    "date": "2026-11-03",
    "name": "LEOPARD",
@@ -111,34 +155,12 @@
    "owner": "SPN",
    "launch": "2025-03-15",
    "intldes": "2025-052C"
-  },
-  {
-   "date": "2026-10-29",
-   "name": "STARLINK-1309",
-   "notable": false,
-   "yearsUp": 6.6,
-   "norad": 45414,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-03-18",
-   "intldes": "2020-019BG"
-  },
-  {
-   "date": "2026-10-29",
-   "name": "RASSVET-3 17",
-   "notable": false,
-   "yearsUp": 0.3,
-   "norad": 100083,
-   "type": "PAY",
-   "owner": "CIS",
-   "launch": "2026-07-19",
-   "intldes": "2026-165A"
   }
  ],
  "debris": {
   "newThisWeek": 4,
   "total": 35947,
-  "up": 12543,
+  "up": 12542,
   "history": [
    {
     "date": "2026-10-09",
@@ -224,6 +246,11 @@
     "date": "2026-11-05",
     "total": 35947,
     "up": 12543
+   },
+   {
+    "date": "2026-11-06",
+    "total": 35947,
+    "up": 12542
    }
   ]
  }
