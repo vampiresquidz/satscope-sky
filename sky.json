@@ -1,7 +1,29 @@
 {
- "generated": "2026-11-06T14:16:10+00:00",
+ "generated": "2026-11-07T12:59:51+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-06",
+   "name": "STARLINK-1420",
+   "notable": false,
+   "yearsUp": 6.4,
+   "norad": 45695,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-06-04",
+   "intldes": "2020-035AQ"
+  },
+  {
+   "date": "2026-11-06",
+   "name": "STARLINK-36253",
+   "notable": false,
+   "yearsUp": 0.7,
+   "norad": 68028,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2026-03-01",
+   "intldes": "2026-040P"
+  },
   {
    "date": "2026-11-05",
    "name": "STARLINK-2298",
@@ -12,6 +34,17 @@
    "owner": "US",
    "launch": "2021-03-24",
    "intldes": "2021-024AX"
+  },
+  {
+   "date": "2026-11-05",
+   "name": "W-SERIES 8",
+   "notable": false,
+   "yearsUp": 0.1,
+   "norad": 100883,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2026-10-01",
+   "intldes": "2026-227A"
   },
   {
    "date": "2026-11-04",
@@ -133,28 +166,6 @@
    "owner": "US",
    "launch": "2020-03-18",
    "intldes": "2020-019AF"
-  },
-  {
-   "date": "2026-10-30",
-   "name": "ELECTRON R/B",
-   "notable": true,
-   "yearsUp": 0.0,
-   "norad": 101147,
-   "type": "R/B",
-   "owner": "US",
-   "launch": "2026-10-23",
-   "intldes": "2026-239D"
-  },
-  {
-   "date": "2026-10-30",
-   "name": "IOD-1",
-   "notable": false,
-   "yearsUp": 1.6,
-   "norad": 63212,
-   "type": "PAY",
-   "owner": "SPN",
-   "launch": "2025-03-15",
-   "intldes": "2025-052C"
   }
  ],
  "debris": {
@@ -249,6 +260,11 @@
    },
    {
     "date": "2026-11-06",
+    "total": 35947,
+    "up": 12542
+   },
+   {
+    "date": "2026-11-07",
     "total": 35947,
     "up": 12542
    }
