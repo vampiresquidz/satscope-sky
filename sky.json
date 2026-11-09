@@ -1,7 +1,29 @@
 {
- "generated": "2026-11-08T13:26:00+00:00",
+ "generated": "2026-11-09T16:18:41+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-08",
+   "name": "STARLINK-4607",
+   "notable": false,
+   "yearsUp": 4.2,
+   "norad": 53740,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2022-09-05",
+   "intldes": "2022-107AS"
+  },
+  {
+   "date": "2026-11-07",
+   "name": "STARLINK-1338",
+   "notable": false,
+   "yearsUp": 6.5,
+   "norad": 45532,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-04-22",
+   "intldes": "2020-025B"
+  },
   {
    "date": "2026-11-07",
    "name": "STARLINK-1730",
@@ -12,6 +34,17 @@
    "owner": "US",
    "launch": "2020-10-06",
    "intldes": "2020-070AH"
+  },
+  {
+   "date": "2026-11-07",
+   "name": "MENUT",
+   "notable": false,
+   "yearsUp": 3.8,
+   "norad": 55010,
+   "type": "PAY",
+   "owner": "SPN",
+   "launch": "2023-01-03",
+   "intldes": "2023-001B"
   },
   {
    "date": "2026-11-06",
@@ -177,17 +210,6 @@
    "owner": "NOR",
    "launch": "2022-01-13",
    "intldes": "2022-002BX"
-  },
-  {
-   "date": "2026-11-01",
-   "name": "STARLINK-1283",
-   "notable": false,
-   "yearsUp": 6.6,
-   "norad": 45389,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-03-18",
-   "intldes": "2020-019AF"
   }
  ],
  "debris": {
@@ -292,6 +314,11 @@
    },
    {
     "date": "2026-11-08",
+    "total": 35947,
+    "up": 12542
+   },
+   {
+    "date": "2026-11-09",
     "total": 35947,
     "up": 12542
    }
