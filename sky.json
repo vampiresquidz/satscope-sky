@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T16:18:41+00:00",
+ "generated": "2026-11-10T14:52:37+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
   {
@@ -177,39 +177,6 @@
    "owner": "US",
    "launch": "2023-07-10",
    "intldes": "2023-096B"
-  },
-  {
-   "date": "2026-11-02",
-   "name": "NAPA-1",
-   "notable": true,
-   "yearsUp": 6.2,
-   "norad": 46320,
-   "type": "PAY",
-   "owner": "THAI",
-   "launch": "2020-09-03",
-   "intldes": "2020-061BA"
-  },
-  {
-   "date": "2026-11-02",
-   "name": "STARLINK-3306",
-   "notable": false,
-   "yearsUp": 4.9,
-   "norad": 50163,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2021-12-18",
-   "intldes": "2021-125H"
-  },
-  {
-   "date": "2026-11-02",
-   "name": "HYPSO-1",
-   "notable": false,
-   "yearsUp": 4.8,
-   "norad": 51053,
-   "type": "PAY",
-   "owner": "NOR",
-   "launch": "2022-01-13",
-   "intldes": "2022-002BX"
   }
  ],
  "debris": {
@@ -319,6 +286,11 @@
    },
    {
     "date": "2026-11-09",
+    "total": 35947,
+    "up": 12542
+   },
+   {
+    "date": "2026-11-10",
     "total": 35947,
     "up": 12542
    }
