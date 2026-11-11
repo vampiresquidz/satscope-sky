@@ -1,7 +1,29 @@
 {
- "generated": "2026-11-10T14:52:37+00:00",
+ "generated": "2026-11-11T14:22:37+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-10",
+   "name": "STARLINK-32264",
+   "notable": false,
+   "yearsUp": 2.0,
+   "norad": 61642,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2024-10-23",
+   "intldes": "2024-191X"
+  },
+  {
+   "date": "2026-11-09",
+   "name": "STARLINK-5701",
+   "notable": false,
+   "yearsUp": 3.8,
+   "norad": 55487,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2023-02-02",
+   "intldes": "2023-015AQ"
+  },
   {
    "date": "2026-11-08",
    "name": "STARLINK-4607",
@@ -133,54 +155,10 @@
    "owner": "US",
    "launch": "2024-12-04",
    "intldes": "2024-229N"
-  },
-  {
-   "date": "2026-11-03",
-   "name": "LEOPARD",
-   "notable": true,
-   "yearsUp": 28.0,
-   "norad": 67687,
-   "type": "PAY",
-   "owner": "JPN",
-   "launch": "1998-11-20",
-   "intldes": "1998-067YE"
-  },
-  {
-   "date": "2026-11-03",
-   "name": "STARLINK-1327",
-   "notable": false,
-   "yearsUp": 6.5,
-   "norad": 45555,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-04-22",
-   "intldes": "2020-025AA"
-  },
-  {
-   "date": "2026-11-03",
-   "name": "STARLINK-1478",
-   "notable": false,
-   "yearsUp": 6.4,
-   "norad": 45755,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-06-13",
-   "intldes": "2020-038AB"
-  },
-  {
-   "date": "2026-11-03",
-   "name": "STARLINK-30239",
-   "notable": false,
-   "yearsUp": 3.3,
-   "norad": 57291,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2023-07-10",
-   "intldes": "2023-096B"
   }
  ],
  "debris": {
-  "newThisWeek": 4,
+  "newThisWeek": 0,
   "total": 35947,
   "up": 12542,
   "history": [
@@ -291,6 +269,11 @@
    },
    {
     "date": "2026-11-10",
+    "total": 35947,
+    "up": 12542
+   },
+   {
+    "date": "2026-11-11",
     "total": 35947,
     "up": 12542
    }
