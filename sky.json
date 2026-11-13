@@ -1,7 +1,29 @@
 {
- "generated": "2026-11-12T15:14:50+00:00",
+ "generated": "2026-11-13T14:34:47+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-12",
+   "name": "STARLINK-3620",
+   "notable": false,
+   "yearsUp": 4.7,
+   "norad": 51775,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2022-02-25",
+   "intldes": "2022-017H"
+  },
+  {
+   "date": "2026-11-11",
+   "name": "STARLINK-1267",
+   "notable": false,
+   "yearsUp": 6.7,
+   "norad": 45384,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-03-18",
+   "intldes": "2020-019AA"
+  },
   {
    "date": "2026-11-11",
    "name": "STARLINK-1284",
@@ -12,6 +34,28 @@
    "owner": "US",
    "launch": "2020-03-18",
    "intldes": "2020-019AG"
+  },
+  {
+   "date": "2026-11-11",
+   "name": "STARLINK-1496",
+   "notable": false,
+   "yearsUp": 6.4,
+   "norad": 45780,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-06-13",
+   "intldes": "2020-038BC"
+  },
+  {
+   "date": "2026-11-11",
+   "name": "STARLINK-4598",
+   "notable": false,
+   "yearsUp": 4.2,
+   "norad": 53630,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2022-08-28",
+   "intldes": "2022-104AU"
   },
   {
    "date": "2026-11-10",
@@ -34,6 +78,17 @@
    "owner": "US",
    "launch": "2020-06-04",
    "intldes": "2020-035AV"
+  },
+  {
+   "date": "2026-11-10",
+   "name": "JILIN-1 GAOFEN 03D09",
+   "notable": false,
+   "yearsUp": 4.3,
+   "norad": 53445,
+   "type": "PAY",
+   "owner": "PRC",
+   "launch": "2022-08-10",
+   "intldes": "2022-098B"
   },
   {
    "date": "2026-11-10",
@@ -144,28 +199,6 @@
    "owner": "US",
    "launch": "2026-03-01",
    "intldes": "2026-040P"
-  },
-  {
-   "date": "2026-11-05",
-   "name": "STARLINK-2298",
-   "notable": false,
-   "yearsUp": 5.6,
-   "norad": 48022,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2021-03-24",
-   "intldes": "2021-024AX"
-  },
-  {
-   "date": "2026-11-05",
-   "name": "W-SERIES 8",
-   "notable": false,
-   "yearsUp": 0.1,
-   "norad": 100883,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2026-10-01",
-   "intldes": "2026-227A"
   }
  ],
  "debris": {
@@ -290,6 +323,11 @@
    },
    {
     "date": "2026-11-12",
+    "total": 35947,
+    "up": 12541
+   },
+   {
+    "date": "2026-11-13",
     "total": 35947,
     "up": 12541
    }
