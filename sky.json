@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T14:34:47+00:00",
+ "generated": "2026-11-14T13:30:29+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
   {
@@ -166,39 +166,6 @@
    "owner": "SPN",
    "launch": "2023-01-03",
    "intldes": "2023-001B"
-  },
-  {
-   "date": "2026-11-06",
-   "name": "STARLINK-1420",
-   "notable": false,
-   "yearsUp": 6.4,
-   "norad": 45695,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-06-04",
-   "intldes": "2020-035AQ"
-  },
-  {
-   "date": "2026-11-06",
-   "name": "OBJECT A",
-   "notable": false,
-   "yearsUp": 2.3,
-   "norad": 60203,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2024-07-04",
-   "intldes": "2024-125A"
-  },
-  {
-   "date": "2026-11-06",
-   "name": "STARLINK-36253",
-   "notable": false,
-   "yearsUp": 0.7,
-   "norad": 68028,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2026-03-01",
-   "intldes": "2026-040P"
   }
  ],
  "debris": {
@@ -328,6 +295,11 @@
    },
    {
     "date": "2026-11-13",
+    "total": 35947,
+    "up": 12541
+   },
+   {
+    "date": "2026-11-14",
     "total": 35947,
     "up": 12541
    }
