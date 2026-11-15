@@ -1,7 +1,51 @@
 {
- "generated": "2026-11-14T13:30:29+00:00",
+ "generated": "2026-11-15T13:55:43+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-13",
+   "name": "GHGSAT-C1",
+   "notable": true,
+   "yearsUp": 6.2,
+   "norad": 46278,
+   "type": "PAY",
+   "owner": "CA",
+   "launch": "2020-09-03",
+   "intldes": "2020-061G"
+  },
+  {
+   "date": "2026-11-13",
+   "name": "STARLINK-1209",
+   "notable": false,
+   "yearsUp": 6.7,
+   "norad": 45206,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-02-17",
+   "intldes": "2020-012AE"
+  },
+  {
+   "date": "2026-11-13",
+   "name": "STARLINK-1212",
+   "notable": false,
+   "yearsUp": 6.7,
+   "norad": 45223,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-02-17",
+   "intldes": "2020-012AX"
+  },
+  {
+   "date": "2026-11-13",
+   "name": "STARLINK-4389",
+   "notable": false,
+   "yearsUp": 4.3,
+   "norad": 53475,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2022-08-12",
+   "intldes": "2022-099L"
+  },
   {
    "date": "2026-11-12",
    "name": "STARLINK-3620",
@@ -12,6 +56,17 @@
    "owner": "US",
    "launch": "2022-02-25",
    "intldes": "2022-017H"
+  },
+  {
+   "date": "2026-11-11",
+   "name": "HMU-SAT2",
+   "notable": true,
+   "yearsUp": 28.0,
+   "norad": 67688,
+   "type": "PAY",
+   "owner": "JPN",
+   "launch": "1998-11-20",
+   "intldes": "1998-067YF"
   },
   {
    "date": "2026-11-11",
@@ -133,39 +188,6 @@
    "owner": "US",
    "launch": "2022-09-05",
    "intldes": "2022-107AS"
-  },
-  {
-   "date": "2026-11-07",
-   "name": "STARLINK-1338",
-   "notable": false,
-   "yearsUp": 6.5,
-   "norad": 45532,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-04-22",
-   "intldes": "2020-025B"
-  },
-  {
-   "date": "2026-11-07",
-   "name": "STARLINK-1730",
-   "notable": false,
-   "yearsUp": 6.1,
-   "norad": 46563,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-10-06",
-   "intldes": "2020-070AH"
-  },
-  {
-   "date": "2026-11-07",
-   "name": "MENUT",
-   "notable": false,
-   "yearsUp": 3.8,
-   "norad": 55010,
-   "type": "PAY",
-   "owner": "SPN",
-   "launch": "2023-01-03",
-   "intldes": "2023-001B"
   }
  ],
  "debris": {
@@ -300,6 +322,11 @@
    },
    {
     "date": "2026-11-14",
+    "total": 35947,
+    "up": 12541
+   },
+   {
+    "date": "2026-11-15",
     "total": 35947,
     "up": 12541
    }
