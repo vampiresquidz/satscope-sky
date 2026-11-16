@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T13:55:43+00:00",
+ "generated": "2026-11-16T15:45:30+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
   {
@@ -177,17 +177,6 @@
    "owner": "US",
    "launch": "2023-02-02",
    "intldes": "2023-015AQ"
-  },
-  {
-   "date": "2026-11-08",
-   "name": "STARLINK-4607",
-   "notable": false,
-   "yearsUp": 4.2,
-   "norad": 53740,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2022-09-05",
-   "intldes": "2022-107AS"
   }
  ],
  "debris": {
@@ -327,6 +316,11 @@
    },
    {
     "date": "2026-11-15",
+    "total": 35947,
+    "up": 12541
+   },
+   {
+    "date": "2026-11-16",
     "total": 35947,
     "up": 12541
    }
