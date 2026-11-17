@@ -1,7 +1,62 @@
 {
- "generated": "2026-11-16T15:45:30+00:00",
+ "generated": "2026-11-17T15:59:14+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
+  {
+   "date": "2026-11-16",
+   "name": "ELECTRON R/B",
+   "notable": true,
+   "yearsUp": 0.2,
+   "norad": 100402,
+   "type": "R/B",
+   "owner": "US",
+   "launch": "2026-08-20",
+   "intldes": "2026-191B"
+  },
+  {
+   "date": "2026-11-15",
+   "name": "STARLINK-1357",
+   "notable": false,
+   "yearsUp": 6.6,
+   "norad": 45565,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2020-04-22",
+   "intldes": "2020-025AL"
+  },
+  {
+   "date": "2026-11-15",
+   "name": "STARLINK-2644",
+   "notable": false,
+   "yearsUp": 5.5,
+   "norad": 48442,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2021-05-09",
+   "intldes": "2021-040Q"
+  },
+  {
+   "date": "2026-11-15",
+   "name": "STARLINK-11075 [DTC]",
+   "notable": false,
+   "yearsUp": 2.9,
+   "norad": 58706,
+   "type": "PAY",
+   "owner": "US",
+   "launch": "2024-01-03",
+   "intldes": "2024-002B"
+  },
+  {
+   "date": "2026-11-15",
+   "name": "HORN-R",
+   "notable": false,
+   "yearsUp": 0.4,
+   "norad": 69507,
+   "type": "PAY",
+   "owner": "JPN",
+   "launch": "2026-06-12",
+   "intldes": "2026-132F"
+  },
   {
    "date": "2026-11-13",
    "name": "GHGSAT-C1",
@@ -166,23 +221,12 @@
    "owner": "US",
    "launch": "2024-10-23",
    "intldes": "2024-191X"
-  },
-  {
-   "date": "2026-11-09",
-   "name": "STARLINK-5701",
-   "notable": false,
-   "yearsUp": 3.8,
-   "norad": 55487,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2023-02-02",
-   "intldes": "2023-015AQ"
   }
  ],
  "debris": {
   "newThisWeek": 0,
   "total": 35947,
-  "up": 12541,
+  "up": 12540,
   "history": [
    {
     "date": "2026-10-09",
@@ -323,6 +367,11 @@
     "date": "2026-11-16",
     "total": 35947,
     "up": 12541
+   },
+   {
+    "date": "2026-11-17",
+    "total": 35947,
+    "up": 12540
    }
   ]
  }
