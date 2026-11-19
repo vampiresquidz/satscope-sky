@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T15:39:18+00:00",
+ "generated": "2026-11-19T15:44:52+00:00",
  "source": "CelesTrak SATCAT (celestrak.org)",
  "reentries": [
   {
@@ -155,61 +155,6 @@
    "owner": "US",
    "launch": "2022-02-25",
    "intldes": "2022-017H"
-  },
-  {
-   "date": "2026-11-11",
-   "name": "HMU-SAT2",
-   "notable": true,
-   "yearsUp": 28.0,
-   "norad": 67688,
-   "type": "PAY",
-   "owner": "JPN",
-   "launch": "1998-11-20",
-   "intldes": "1998-067YF"
-  },
-  {
-   "date": "2026-11-11",
-   "name": "STARLINK-1267",
-   "notable": false,
-   "yearsUp": 6.7,
-   "norad": 45384,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-03-18",
-   "intldes": "2020-019AA"
-  },
-  {
-   "date": "2026-11-11",
-   "name": "STARLINK-1284",
-   "notable": false,
-   "yearsUp": 6.7,
-   "norad": 45390,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-03-18",
-   "intldes": "2020-019AG"
-  },
-  {
-   "date": "2026-11-11",
-   "name": "STARLINK-1496",
-   "notable": false,
-   "yearsUp": 6.4,
-   "norad": 45780,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2020-06-13",
-   "intldes": "2020-038BC"
-  },
-  {
-   "date": "2026-11-11",
-   "name": "STARLINK-4598",
-   "notable": false,
-   "yearsUp": 4.2,
-   "norad": 53630,
-   "type": "PAY",
-   "owner": "US",
-   "launch": "2022-08-28",
-   "intldes": "2022-104AU"
   }
  ],
  "debris": {
@@ -364,6 +309,11 @@
    },
    {
     "date": "2026-11-18",
+    "total": 35960,
+    "up": 12553
+   },
+   {
+    "date": "2026-11-19",
     "total": 35960,
     "up": 12553
    }
